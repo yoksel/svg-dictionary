@@ -235,7 +235,7 @@ SVG-контекст — контекст, внутри которого все 
 
 ### text content element
 
-текстовыймэлемент
+текстовый элемент
 
 ### text content child element
 
